@@ -31,6 +31,6 @@ Consulta la tabla payment de la base de datos sakila.
 
 ¿Cuál es la cantidad mas baja y mas alta de la columna amount?
 > SELECT distinct amount FROM `payment` ORDER by amount ASC; // Es 0
-> d
+<br>
 > SELECT distinct amount  FROM `payment` ORDER by amount DESC; // 11.99
 
