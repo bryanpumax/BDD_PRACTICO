@@ -3,7 +3,7 @@
 Basados en el modelo logico de la practica 
 del taller 
 
-![modelo logico](https://github.com/bryanpumax/BDD_CITAS_SQL_SERVER_PRACTICA/blob/master/modelo.PNG?raw=true)
+![modelo logico](https://github.com/bryanpumax/BDD_PRACTICO/blob/master/BDD_CITAS_SQL_SERVER_PRACTICA-master/modelo.PNG?raw=true)
 
 Se realizo las siguientes consultas 
 
