@@ -6,3 +6,4 @@
 
 Bueno  el curso habla que toca descargar mysql con workbetch pero yo  ya se de tema mejor  use phpmyadmin pero me genero problemas :( por utilizar una base de datos  de  ejemplo sakila-db
 
+![solucion 1](https://github.com/bryanpumax/BDD_PRACTICO/blob/master/SQL%20Consultas%20b%C3%A1sicas%20a%20complejas/solucion_php.PNG?raw=true)
